@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "oka-preview",
+  "name": "redirects-inspiration-contained-js-wrangler",
   "version": "1.0.0",
-  "description": "A template for kick starting a Cloudflare Workers project",
+  "description": "Cloudflare Worker - Redirecter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

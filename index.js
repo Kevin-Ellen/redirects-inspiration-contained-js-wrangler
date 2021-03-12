@@ -25,7 +25,7 @@ const handleRequest = async (request) => {
   */
   return new Response(
     `
-      <h1>Welcome!</h1><p>To view a redirect, please make a request to <a href="/xx-xx/hello-world">/xx-xx/hello-world</a></p>
+      <h1>Welcome!</h1><p>To view a redirect, please make a request to /xx-xx/hello-world</p>
     `,
     {
       status:200,

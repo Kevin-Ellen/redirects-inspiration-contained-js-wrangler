@@ -8,7 +8,8 @@ Redirects requests to /xx-xx/hello-world to /xx-xx/ciao-mars, will show a text f
 * JavaScript
 
 ## Testing
-URL: 
+* URL: https://redirects-inspiration-contained-js-wrangler.croud-testing.workers.dev/
+* Redirecting URL: https://redirects-inspiration-contained-js-wrangler.croud-testing.workers.dev/xx-xx/hello-world
 
 To test redirect, make a request to: 
 

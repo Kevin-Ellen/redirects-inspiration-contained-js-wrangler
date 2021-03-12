@@ -6,6 +6,8 @@
 ._*
 .Spotlight-V100
 .Trashes
+.cargo-ok
+.prettierrc
 ehthumbs.db
 Thumbs.db
 wrangler.toml
